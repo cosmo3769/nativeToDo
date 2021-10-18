@@ -1,3 +1,3 @@
 # nativeToDo
 
-To-Do with react-native and expo-cli
+Learning react-native and expo-cli
